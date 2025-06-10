@@ -2,6 +2,8 @@
 
 目前最新版本为1.0版本，已经过测试运行暂未发现问题
 
+## 介绍
+Reseewo是一个用于解决希沃白板卡死在后台导致无法正常通过快捷方式打开希沃白板的工具。Reseewo通过结束后台的希沃白板进程，打开希沃白板启动器程序来修复希沃白板卡死在后台的问题。同时Reseewo具有防止误打开的功能，如果已经存在特定的前台窗口进程名，那么Reseewo不会终结后台程序，直接打开希沃白板。
 ## 功能
 
 - 自定义配置文件，包含终结的后台进程名，需跳过的前台窗口进程名，重新打开目标程序的路径
@@ -11,7 +13,7 @@
 
 ## 使用方法
 
-1. 从Assets中下载Reseewo.exe
+1. 从[Releases](https://github.com/waji-rui/Reseewo/releases)中下载Reseewo.exe
 
 3. 运行Reseewo，会在同目录下生成Open_and_Close.txt配置文件和reseewo_log.txt日志，并按默认配置运行一次
 4.  按需求可自定义Open_and_Close.txt配置文件 
