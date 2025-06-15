@@ -27,3 +27,7 @@ Reseewo是一个用于解决希沃白板卡死在后台导致无法正常通过�
 瓦吉rui  [bilibili](https://space.bilibili.com/1498315642)  [个人网站](https://wajirui.creaconception.dpdns.org/)  [QQ](https://qm.qq.com/q/5iEZlr3Vri)<br/>
 
 创意工作室 [官网](https://creaconception.dpdns.org/)
+<br/>
+<br/>
+
+*本项目使用了AI辅助完成代码内容
